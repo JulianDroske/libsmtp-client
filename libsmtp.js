@@ -16,7 +16,7 @@
 	334 UGFzc3dvcmQ6
 	<password>
 	235 Authentication successful
-	RCPT TO:<624878920@qq.com>
+	RCPT TO:<@qq.com>
 	503 Bad sequence of commands
 	
 	MAIL FROM:<@139.com>
